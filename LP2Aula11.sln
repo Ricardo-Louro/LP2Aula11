@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrogRace", "FrogRace\FrogRa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoofyThreads", "GoofyThreads\GoofyThreads.csproj", "{EEB5FAF4-FCA8-4CC9-883E-742F8D55C09C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiantListThreading", "GiantListThreading\GiantListThreading.csproj", "{453E48DA-074C-48E0-A7C0-E82C83265F2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{EEB5FAF4-FCA8-4CC9-883E-742F8D55C09C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EEB5FAF4-FCA8-4CC9-883E-742F8D55C09C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EEB5FAF4-FCA8-4CC9-883E-742F8D55C09C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{453E48DA-074C-48E0-A7C0-E82C83265F2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{453E48DA-074C-48E0-A7C0-E82C83265F2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{453E48DA-074C-48E0-A7C0-E82C83265F2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{453E48DA-074C-48E0-A7C0-E82C83265F2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
