@@ -3,6 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threads", "Threads\Threads.csproj", "{8890AC56-0B82-4868-A1E9-E61C9BEFB730}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrogRace", "FrogRace\FrogRace.csproj", "{6FBE5BC8-9937-4346-8343-BBAAAECE78B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoofyThreads", "GoofyThreads\GoofyThreads.csproj", "{EEB5FAF4-FCA8-4CC9-883E-742F8D55C09C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -10,5 +16,19 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8890AC56-0B82-4868-A1E9-E61C9BEFB730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8890AC56-0B82-4868-A1E9-E61C9BEFB730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8890AC56-0B82-4868-A1E9-E61C9BEFB730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8890AC56-0B82-4868-A1E9-E61C9BEFB730}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FBE5BC8-9937-4346-8343-BBAAAECE78B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FBE5BC8-9937-4346-8343-BBAAAECE78B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FBE5BC8-9937-4346-8343-BBAAAECE78B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FBE5BC8-9937-4346-8343-BBAAAECE78B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEB5FAF4-FCA8-4CC9-883E-742F8D55C09C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEB5FAF4-FCA8-4CC9-883E-742F8D55C09C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEB5FAF4-FCA8-4CC9-883E-742F8D55C09C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEB5FAF4-FCA8-4CC9-883E-742F8D55C09C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
